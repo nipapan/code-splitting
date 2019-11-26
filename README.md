@@ -1,1 +1,1 @@
-This project is an exercise for React code optimization and progressive web app.
+This project is an exercise for React code optimization.
